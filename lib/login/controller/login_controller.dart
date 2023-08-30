@@ -13,7 +13,7 @@ class LoginController extends GetxController {
     String pattern =
         r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+";
     isValidForm.value = RegExp(pattern).hasMatch(emailController.text) &&
-        passwordController.text.isNotEmpty;
+       passwordController.text.length >= 6;
   }
 
   void login() {
