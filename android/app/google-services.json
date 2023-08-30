@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650995048681",
+    "project_id": "ascot-app",
+    "storage_bucket": "ascot-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650995048681:android:74b31114413d47f7b6d078",
+        "android_client_info": {
+          "package_name": "com.example.ascot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650995048681-6qata1b9di8jefuie1pf1jg6q85872vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEdsHMPv12Xj5nRvEsUZWAN5NDT-1JK5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650995048681-6qata1b9di8jefuie1pf1jg6q85872vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
